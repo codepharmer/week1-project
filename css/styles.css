@@ -1,0 +1,59 @@
+body {
+    background-image: url("C:/Users/Wesso/Desktop/Tech Prep/week-01-projects/img/milkbg.jpg");
+    background-repeat: no-repeat;
+    background-size: 100%;
+    font-family: 'Roboto', sans-serif;
+}
+li {
+    color: aliceblue;
+    display: inline;
+    padding: 0.5rem;
+  }
+.cookies {
+    justify-content: space-between;
+}
+  .center {
+      text-align: center;
+      float: center;
+      padding: 13rem;
+  }
+.cookie-store {
+    position: relative;
+    width: 45%;
+    padding: 65px 5px 65px 5px;
+    margin-left: 27.5%;
+    margin-top: 10%;
+    margin-bottom: 35%;
+    background-color: rgba(3, 3, 3, 0.818);
+    color: aliceblue;
+}
+  .about-us {
+    text-align: left;
+    justify-content: right;
+    padding: 70px;
+    background-color: rgb(211, 211, 211);
+  }
+.contact-us {
+    color: aliceblue;
+    background-color: #0F98DC;
+}
+.push-down-next-element {
+    margin-bottom: 5%;
+}
+.shift-right {
+    display: flex;
+    justify-content: flex-end;
+}
+.shift-left {
+    float: left;
+}
+.about-us-text {
+    width: 85%;
+    display: flex;
+    justify-content: flex-end;
+}
+.about-us-img {
+    width: 25%;
+    display: flex;
+    justify-content: flex-end;
+}
